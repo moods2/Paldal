@@ -60,7 +60,7 @@
 <table>
     <tr>
         <th width="16%">업무 / 구성원</th>
-        <th width="14%">윤대웅</th><th width="14%">김동욱</th><th width="14%">이호</th><th width="14%">권택진</th><th width="14%">이수지</th><th width="14%">ㅇ</th>         
+        <th width="14%">윤대웅</th><th width="14%">김동욱</th><th width="14%">이호</th><th width="14%">권택진</th><th width="14%">이수지</th>백지현<th width="14%">ㅇ</th>         
     </tr>
     <tr>
         <th>프로젝트 기획</th>
@@ -117,4 +117,4 @@
         <th>공지사항<br> 개발,  <br>의견제안</th>
         <th>회원가입 유효성검사개발</th>
     </tr>
-</table>
+</table>
