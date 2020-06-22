@@ -60,7 +60,7 @@
 <table>
     <tr>
         <th width="16%">업무 / 구성원</th>
-        <th width="14%">김동욱</th><th width="14%">윤대웅</th><th width="14%">이호</th><th width="14%">권택진</th><th width="14%">이수지</th><th width="14%">ㅇ</th>         
+        <th width="14%">윤대웅</th><th width="14%">김동욱</th><th width="14%">이호</th><th width="14%">권택진</th><th width="14%">이수지</th><th width="14%">ㅇ</th>         
     </tr>
     <tr>
         <th>프로젝트 기획</th>
@@ -84,10 +84,12 @@
     </tr>
     <tr>
         <th>화면설계</th>
-        <th colspan="2">관리자</th>        
-        <th>교육생</th>
-        <th colspan="2">교사</th>  
-        <th>관리자</th>    
+        <th>명소</th>
+        <th>관리자</th>
+        <th>메인</th>
+        <th>회원</th>
+        <th>공지</th>  
+        <th></th>    
     <tr>
         <th>소스(코딩)</th>
         <th>관리자부분 <br>개발 및 화면<br>설계, 전체<br>소스 수정</th>
